@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyquicksightdas-dev-212105-authRole",
+      "UnauthRoleArn": "arn:aws:iam::567024620811:role/amplify-amplifyquicksightdas-dev-212105-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::567024620811:role/amplify-amplifyquicksightdas-dev-212105-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyquicksightdas-dev-212105-deployment",
+      "UnauthRoleName": "amplify-amplifyquicksightdas-dev-212105-unauthRole",
+      "StackName": "amplify-amplifyquicksightdas-dev-212105",
+      "StackId": "arn:aws:cloudformation:us-east-1:567024620811:stack/amplify-amplifyquicksightdas-dev-212105/380de970-1138-11ed-9119-0e0c198b19b3",
+      "AmplifyAppId": "d349pg4yvjllkg",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-amplifyquicksightdas-dev-212105-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "amplifyquicksightdasde5497aa": {}
+      },
+      "function": {
+        "everestDashboard": {
+          "deploymentBucketName": "amplify-amplifyquicksightdas-dev-212105-deployment",
+          "s3Key": "amplify-builds/everestDashboard-4667486958394b674d71-build.zip"
+        }
+      }
+    }
+  }
+}

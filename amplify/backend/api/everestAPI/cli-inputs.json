@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "paths": {
+    "/getEverestDashboard": {
+      "name": "/getEverestDashboard",
+      "lambdaFunction": "everestDashboard",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "read"
+        ]
+      }
+    }
+  }
+}
